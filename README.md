@@ -32,7 +32,7 @@ Download and run :
 mvn clean install
 
 
-mvn spring-boot🇧🇳
+mvn spring-boot : run
 
 4️⃣ REST Endpoint
 
