@@ -20,7 +20,10 @@ Stubbed LocalModel Provider
 
 3️⃣ Runtime Switching via Configuration
 
-The active implementation should be selected dynamically using configuration (e.g., application properties or profile).
+The active implementation should be selected dynamically using configuration (e.g., application yml).
+Download and run :
+mvn clean install
+mvn spring-boot🇧🇳
 
 4️⃣ REST Endpoint
 
